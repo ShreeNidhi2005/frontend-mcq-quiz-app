@@ -1,2 +1,3 @@
 # frontend-mcq-quiz-app
-A responsive Frontend MCQ Quiz App built using HTML, CSS, and JavaScript. It allows users to test their knowledge of frontend web development through multiple-choice questions with simple navigation.
+
+A simple quiz website designed to test frontend development knowledge through multiple-choice questions. Built with HTML, CSS, and JavaScript.
