@@ -1,0 +1,35 @@
+<html>
+    <head><title>Quiz App</title>
+    <style>
+    body{
+        background-color: pink;
+        cursor: pointer;
+        
+    }
+    h1{
+        color:blueviolet;
+    }
+     .correct{
+        color:green;
+     }
+     .wrong{
+        color:red;
+     }
+    </style>
+    </head>
+    <body>
+        <div class="container">
+            <h1>frontend MCQ</h1>
+            
+                <h2 id="progress"></h2>
+                <h3 id="questions"></h3>
+                
+                    <ul id="optionsList"></ul>
+                    <button id="nextBtn" onclick="nextQuestion()">Next</button>
+                    <h3 id="result"></h3>
+             
+            </div>
+            <script src="samplequiz.js"></script>
+    </body>
+
+</html>
